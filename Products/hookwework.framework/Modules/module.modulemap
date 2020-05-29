@@ -1,0 +1,6 @@
+framework module hookwework {
+  umbrella header "hookwework.h"
+
+  export *
+  module * { export * }
+}
