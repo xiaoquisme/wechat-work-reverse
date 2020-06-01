@@ -11,7 +11,6 @@
 		43768FA62481243500934069 /* NSObject+hook.h in Headers */ = {isa = PBXBuildFile; fileRef = 43768FA52481243500934069 /* NSObject+hook.h */; };
 		43768FAA2481247C00934069 /* NSObject+hook.m in Sources */ = {isa = PBXBuildFile; fileRef = 43768FA82481247C00934069 /* NSObject+hook.m */; };
 		43768FAC248125E900934069 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43768FAB248125E900934069 /* main.m */; };
-		43C67FE324814E270052CE8B /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43C67FE224814E270052CE8B /* Cocoa.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				43C67FE324814E270052CE8B /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
